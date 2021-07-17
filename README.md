@@ -1,3 +1,3 @@
-# Theme Toggle
+# Flutter Exercise
 
-A flutter example for theme change
+## Added Theme Toggle
